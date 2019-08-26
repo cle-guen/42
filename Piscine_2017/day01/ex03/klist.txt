@@ -1,0 +1,8 @@
+Credentials cache: API:36FCAAC7-245B-45E0-87BC-09C4C50D2D3E
+        Principal: cle-guen@42.FR
+
+  Issued                Expires               Principal
+Jul  5 13:27:00 2017  Jul 12 13:27:00 2017  krbtgt/42.FR@42.FR
+Jul  5 13:27:03 2017  Jul 12 13:27:00 2017  ldap/ldap-proxy.42.fr@42.FR
+Jul  5 13:27:04 2017  Jul 12 13:27:00 2017  HTTP/student-storage-1.42.fr@42.FR
+Jul  5 13:30:00 2017  Jul 12 13:27:00 2017  host/vgs-fn1.42.fr@42.FR
